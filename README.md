@@ -1,41 +1,34 @@
-# The goal is to build an intuitive understanding of how each algorithm works under the hood.
-# Machine Learning Models
-Implementation of classic ML and DL models from scratch: theoretical and practical parts
-# Classic ML:
-📈 Regression
-Linear Regression – with gradient descent & analytical solution
+# 🧠 Machine Learning Models
 
-Logistic Regression – binary classification using sigmoid
+The goal is to build an intuitive understanding of how each algorithm works under the hood.
 
-👥 Instance-Based Learning
-K-Nearest Neighbors (KNN)
+---
 
-Clustering – K-Means and other unsupervised techniques
+### 📈 Regression
+- **Linear Regression** 
+- **Logistic Regression** 
 
-🧱 Linear & Non-linear Models
-Support Vector Machines (SVM)
+### 👥 Instance-Based Learning
+- **K-Nearest Neighbors (KNN)**
+- **Clustering** 
 
-Decision Trees
+### 🧱 Linear & Non-linear Models
+- **Support Vector Machines (SVM)**
+- **Decision Trees**
+- **Random Forests**
 
-Random Forests
+### 🚀 Ensemble Methods
+- **Gradient Boosting** 
+- **Custom Boosting Class** 
 
-🚀 Ensemble Methods
-Gradient Boosting – from basic to advanced
+### 🛠️ Model Selection & Optimization
+- **Cross-Validation**
+- **Grid Search**
+- **Randomized Search**
+- **Bayesian Optimization** 
 
-Custom Boosting Class – flexible implementation for experimenting
+### ⚖️ Theory & Diagnostics
+- **Bias-Variance Tradeoff**
+- **PCA (Principal Component Analysis)**
 
-🛠️ Model Selection & Optimization
-Cross-Validation
-
-Grid Search
-
-Randomized Search
-
-Bayesian Optimization (optional add-on)
-
-⚖️ Theory & Diagnostics
-Bias-Variance Tradeoff – intuitive illustrations & examples
-
-PCA (Principal Component Analysis) – for dimensionality reduction
-
-
+---
