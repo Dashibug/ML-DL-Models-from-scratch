@@ -37,4 +37,4 @@ The goal is to build an intuitive understanding of how each algorithm works unde
 - **Convolutional Neural Networks (CNNs)**
 
 ### 🔁 Transformers
-- **Full Transformer from Scratch**
+- [**Transformer from Scratch**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/transformer.ipynb)
