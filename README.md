@@ -32,3 +32,9 @@ The goal is to build an intuitive understanding of how each algorithm works unde
 - **PCA (Principal Component Analysis)**
 
 ---
+
+### 🧠 Neural Networks & Deep Learning
+- **Convolutional Neural Networks (CNNs)**
+
+### 🔁 Transformers
+- **Full Transformer from Scratch**
