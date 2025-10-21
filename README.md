@@ -7,11 +7,11 @@ The goal is to build an intuitive understanding of how each algorithm works unde
 ### 📈 Linear Models
 - [**Linear Regression**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/linear-regression.ipynb)
 - [**Logistic Regression**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/logistic-regression.ipynb)
-- [**Support Vector Machines (SVM)**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/svm.ipynb)
+- [**Linear Support Vector Machines (SVM)**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/svm.ipynb)
 
 ### 👥 Instance-Based Learning
 - [**K-Nearest Neighbors (KNN)**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/knn-clustering.ipynb)
-- **Kmean Clustering** 
+- **K-Means Clustering** 
 
 ### 🌳 **Tree-Based & Ensemble Methods**
 - [**Decision Trees**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/decision-trees.ipynb)
