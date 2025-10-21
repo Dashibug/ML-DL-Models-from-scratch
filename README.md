@@ -5,7 +5,7 @@ The goal is to build an intuitive understanding of how each algorithm works unde
 ---
 
 ### 📈 Regression
-- **Linear Regression**
+- [**Linear Regression**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/linear-regression.ipynb)
 - [**Logistic Regression**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/logistic-regression.ipynb)
 
 ### 👥 Instance-Based Learning
