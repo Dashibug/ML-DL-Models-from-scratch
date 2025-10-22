@@ -4,20 +4,18 @@ The goal is to build an intuitive understanding of how each algorithm works unde
 
 ---
 
-### 📈 Regression
-- **Linear Regression**
+### 📈 Linear Models
+- [**Linear Regression**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/linear-regression.ipynb)
 - [**Logistic Regression**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/logistic-regression.ipynb)
+- [**Linear Support Vector Machines (SVM)**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/svm.ipynb)
 
 ### 👥 Instance-Based Learning
 - [**K-Nearest Neighbors (KNN)**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/knn-clustering.ipynb)
-- **Clustering** 
+- **K-Means Clustering** 
 
-### 🧱 Linear & Non-linear Models
-- [**Support Vector Machines (SVM)**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/svm.ipynb)
+### 🌳 **Tree-Based & Ensemble Methods**
 - [**Decision Trees**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/decision-trees.ipynb)
 - [**Random Forests**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/random-forest.ipynb)
-
-### 🚀 Ensemble Methods
 - **Gradient Boosting** 
 - **Custom Boosting Class** 
 
