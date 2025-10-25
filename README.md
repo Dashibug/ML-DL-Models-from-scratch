@@ -16,7 +16,7 @@ The goal is to build an intuitive understanding of how each algorithm works unde
 ### 🌳 **Tree-Based & Ensemble Methods**
 - [**Decision Trees**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/decision-trees.ipynb)
 - [**Random Forests**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/random-forest.ipynb)
-- **Gradient Boosting** 
+- [**Gradient Boosting**](https://github.com/Dashibug/ML-DL-Models-from-scratch/blob/main/gradient-boosting.ipynb)
 - **Custom Boosting Class** 
 
 ### 🛠️ Model Selection & Optimization
